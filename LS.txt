@@ -1,2 +1,1 @@
-uesr K
-PASS L
+john_doe mySecurePass123
